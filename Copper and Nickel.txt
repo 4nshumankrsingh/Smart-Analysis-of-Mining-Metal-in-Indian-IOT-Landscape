@@ -1,0 +1,26 @@
+Copper and nickel are crucial metals in the manufacturing of batteries, particularly in the context of energy storage technologies, and they play an important role in IoT devices as well. Here's how they contribute:
+
+Copper:
+
+1. Electrical Conductivity: Copper is known for its excellent electrical conductivity, which makes it an essential material in battery systems for efficient power transmission. In batteries, copper is used in the anode (positive side) of lithium-ion batteries (commonly used in smartphones, laptops, electric vehicles, and IoT devices).
+
+2. Wiring and Components: In battery packs, copper is used in the wiring and connectors, ensuring that electrical current flows smoothly with minimal energy loss. This is critical in IoT applications where energy efficiency is a priority.
+
+3. Heat Dissipation: Copper’s high thermal conductivity allows it to manage heat effectively in battery systems. It helps in reducing the heat generated during the charging and discharging of batteries, which improves battery life and safety.
+
+Nickel:
+
+1. Energy Density: Nickel plays a significant role in the cathode (negative side) of lithium-ion batteries, especially nickel-rich cathodes such as nickel-cobalt-aluminum (NCA) or nickel-manganese-cobalt (NMC) chemistries. These formulations are popular in high-energy-density batteries used in electric vehicles, energy storage systems, and industrial IoT applications.
+
+2. Stability and Longevity: Nickel contributes to the battery's overall stability and performance. Nickel-containing cathodes improve the battery’s ability to store more energy and discharge it over longer periods, increasing the life cycle of the battery—ideal for IoT devices that require long operational lifespans.
+
+3. Lower Cobalt Dependence: Cobalt is a more expensive metal, and researchers are working on reducing its use by increasing nickel content in batteries. Nickel-rich cathodes help reduce the cost while maintaining battery performance, which is crucial for affordable IoT devices and large-scale energy solutions.
+
+Role in the IoT Sector :
+Copper is crucial for IoT devices requiring reliable energy transfer, whether it's in smart grids, sensors, or connected devices that need low-power, long-life batteries.
+Nickel, by enhancing battery energy density and stability, supports the development of longer-lasting batteries for IoT infrastructure, such as smart cities, industrial monitoring, and autonomous systems.
+
+References :
+
+1. https://nickel.com/news/nickel-rich-cathodes-show-promising-results-for-longer-lasting-ev-batteries/
+2. https://www.semanticscholar.org/paper/The-development-and-future-of-lithium-ion-batteries-Blomgren/5f9b6612bf4b9c43dc4cfff4e5190250f0fea3d6
